@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jayden and I'm a young aspiring coder from Singapore.</p>
+<p align="left">My name is Jayden and I'm an aspiring young coder from Singapore.</p>
 
 ###
 
@@ -10,8 +10,8 @@
 
 ###
 
-<p align="left">✨ Best Project: Play the Beat <br>📚 I'm currently learning Python and Robotics<br>🎯 Goals: <br>🎲 Fun fact:</p>
-
+<p align="left">✨ Best Project: Play the Beat <br>📚 I'm currently learning Python and Robotics<br>🎯 Goals: Make a difference in the world<br>🎲 Fun fact: I like to swim
+  
 ###
 
 <h2 align="left">I code with</h2>
@@ -19,13 +19,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="10" alt="python logo"  />
-  <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="10" alt="html5 logo"  />
-  <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="10" alt="css3 logo"  />
-  <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="10" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" width="80" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80" width="80" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" width="80" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" width="80" alt="javascript logo"  />
 </div>
 
 ###
